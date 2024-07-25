@@ -1,1 +1,2 @@
 --platform=linux/arm64 xhofe/alist-aria2:latest
+tigerblue77/dell_idrac_fan_controller:latest
