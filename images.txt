@@ -2,3 +2,4 @@
 tigerblue77/dell_idrac_fan_controller:latest
 jeessy/ddns-go
 jxxghp/moviepilot
+lscr.io/linuxserver/transmission
