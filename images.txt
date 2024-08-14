@@ -1,3 +1,4 @@
 jeessy/ddns-go
 jxxghp/moviepilot
 lscr.io/linuxserver/transmission
+lscr.io/linuxserver/qbittorrent
