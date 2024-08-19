@@ -5,3 +5,4 @@ iarekylew00t/caddy-cloudflare:latest
 6053537/portainer-ce
 jc21/nginx-proxy-manager
 jc21/mariadb-aria
+apachewebdav/apachewebdav
