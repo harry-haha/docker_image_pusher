@@ -6,4 +6,4 @@ iarekylew00t/caddy-cloudflare:latest
 jc21/nginx-proxy-manager
 jc21/mariadb-aria
 apachewebdav/apachewebdav
-lscr.io/linuxserver/webtop:ubuntu-xfce
+lscr.io/linuxserver/webtop:ubuntu-mate
