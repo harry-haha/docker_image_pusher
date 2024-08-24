@@ -10,3 +10,5 @@ lscr.io/linuxserver/webtop:ubuntu-mate
 wordpress
 mariadb:lts
 ghcr.io/linuxserver/proot-apps:chromium
+linuxserver/mods:universal-internationalization
+ghcr.io/linuxserver/proot-apps:code
