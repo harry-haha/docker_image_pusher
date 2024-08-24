@@ -12,3 +12,4 @@ mariadb:lts
 ghcr.io/linuxserver/proot-apps:chromium
 linuxserver/mods:universal-internationalization
 ghcr.io/linuxserver/proot-apps:vscode
+linuxserver/mods:universal-package-install
