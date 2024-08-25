@@ -9,4 +9,4 @@ apachewebdav/apachewebdav
 lscr.io/linuxserver/webtop:ubuntu-mate
 wordpress
 mariadb:lts
-linuxserver/jellyfin
+lscr.io/linuxserver/jellyfin
