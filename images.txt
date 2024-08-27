@@ -11,3 +11,4 @@ wordpress
 mariadb:lts
 lscr.io/linuxserver/jellyfin
 tigerblue77/dell_idrac_fan_controller
+itzg/minecraft-server
