@@ -13,4 +13,3 @@ lscr.io/linuxserver/jellyfin
 tigerblue77/dell_idrac_fan_controller
 itzg/minecraft-server:java21-alpine
 btpanel/baota:lnmp
-ddsderek/mw-server:latest
